@@ -18,7 +18,7 @@ An interactive 3-page **Power BI** dashboard that analyzes retail sales, profit,
 ### 1. Overview
 High-level KPIs and performance trends.
 
-![Overview page](screenshots/Overview.png)
+![Overview page](Overview.png)
 
 - **KPI cards:** total sales, total profit, profit margin and customer count
 - **Total sales and profit by order year** (combo chart)
@@ -30,7 +30,7 @@ High-level KPIs and performance trends.
 ### 2. Sales & Profit
 Product, state and customer performance.
 
-![Sales and Profit page](screenshots/Sales%20and%20Profit.png)
+![Sales and Profit page](Sales%20and%20Profit.png)
 
 - Top 5 products by sales
 - Top 5 sub-categories by profit
@@ -40,7 +40,7 @@ Product, state and customer performance.
 ### 3. Ship & Discount
 Shipping behavior and discount patterns.
 
-![Ship and Discount page](screenshots/Ship%20and%20Discount.png)
+![Ship and Discount page](Ship%20and%20Discount.png)
 
 - Orders by ship mode
 - Ship days by ship mode
